@@ -1,0 +1,14 @@
+[theme]
+base="dark"
+primaryColor="#00FF88"
+backgroundColor="#0B0E14"
+secondaryBackgroundColor="#121826"
+textColor="#8B9BB4"
+font="sans serif"
+
+[server]
+headless = true
+enableCORS = false
+
+[client]
+toolbarMode = "viewer"
